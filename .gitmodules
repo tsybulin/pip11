@@ -1,0 +1,12 @@
+[submodule "PiP-11"]
+	path = PiP-11
+	url = https://github.com/tsybulin/PiP-11
+[submodule "pip-11-panel"]
+	path = pip-11-panel
+	url = https://github.com/tsybulin/pip-11-panel
+[submodule "pip-11-term"]
+	path = pip-11-term
+	url = https://github.com/tsybulin/pip-11-term
+[submodule "pip-11-pclp11"]
+	path = pip-11-pclp11
+	url = https://github.com/tsybulin/pip-11-pclp11
