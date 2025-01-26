@@ -167,4 +167,17 @@ A sample file is located in the `assets/PIP-11` directory of the module.
     RK=SD:/PIP-11/UNIX_V6.RK05
     RL=SD:/PIP-11/RL11_00.RL02
 
+
+Some of the disk images and other files can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1Y5lKgeAN717s1oAb4M4Ydc3CqlGIpGKF?usp=sharing) :
+
+- RK11_00.RK05 : bootable RT-11 v05.03, regenerated to fit RK05, unused handlers removed.
+- RK11_01.RK05 : some MACRO-11 libraries and test sources
+- RK11_02.RK05 : QUASIC programming language
+- RK11_01.RK05 : empty initialized RK05 disk.
+- TC11_00.TAPE : empty initiliazed DECtape
+- RL11_00.RL02 : game collection, including tetris, pacman and advent.
+- RL11_01.RL02 : FIG-FORTH  V 1.3.3
+- RL11_02.RL02 : empty initialized RL02 disk
+
+
 [Home](README.md#further-reading)
