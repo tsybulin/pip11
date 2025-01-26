@@ -80,4 +80,7 @@ The module is powered by 5 volts from the I²C bus.
 
 Also you will need to connect Vcc (5v or 3v) to SD card interface, depends on interface model.
 
+Pico has a dedicated RESET pin on header pin 30 (RUN).
+Pi 3, 4 have unsoldered reset pin on a J2 connector. Solder a wired button to central and GLOBAL_EN pins.
+
 [Home](README.md#further-reading)

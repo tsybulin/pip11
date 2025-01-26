@@ -23,6 +23,7 @@ Before loading the default configuration, you can select the number of the confi
 - 1 .. 4 - use additional configuration start BOOTMON
 - 9 - run TFTP server for file exchange or firmware update
 
+To select additional configuration from a panel, select config number on switches (i.e press SW1 and SW0 for 3) and depress CONT.
 
 ## File exchange and firmware update
 
