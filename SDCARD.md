@@ -77,6 +77,7 @@ Sample session loading absolute tape with PDP-11 Basic:
     BOOT>
 
 The `RP` device is a more convenient way to load from paper tape.
+Starting address for BOOTMON is 140000
 
 ### Disks and magnetic tapes.
 

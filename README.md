@@ -119,3 +119,4 @@ Since the disk and tape image formats used are SIMH-compatible, you can use
 - [Connecting modules](PINOUT.md)
 - [SD card files](SDCARD.md)
 - [System boot or file exchange and firmware update](BOOT.md)
+- [Shortcuts](SHORTCUTS.md)
