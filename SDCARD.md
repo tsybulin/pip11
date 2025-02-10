@@ -178,7 +178,7 @@ Some of the disk images and other files can be downloaded from [Google Drive](ht
 - TC11_00.TAPE : empty initiliazed DECtape
 - RL11_00.RL02 : game collection, including tetris, pacman and advent.
 - RL11_01.RL02 : FIG-FORTH  V 1.3.3
-- RL11_02.RL02 : empty initialized RL02 disk
+- RL11_02.RL02 : RT-11 V5.3 Source code and utilites (rt-11 source kit)
 
 
 [Home](README.md#further-reading)
