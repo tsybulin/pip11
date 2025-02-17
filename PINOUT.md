@@ -56,7 +56,7 @@ The module is powered by 5 volts from the I²C bus.
 | 4          |  2   |   A button  |             |
 | 5          |  3   |   B button  |             |
 | 6          |  4   |   I²C0 SDA  | I²C SDA bus |
-| 7          |  5   |   I²C0 SDA  | I²C SCL bus |
+| 7          |  5   |   I²C0 SCL  | I²C SCL bus |
 | 8          |      |   Ground    |    I²C bus  |
 | 39         |      |    VSYS     | 5V I²C bus  |
 | 9          |  6   |   X button  |             |
@@ -82,5 +82,14 @@ Also you will need to connect Vcc (5v or 3v) to SD card interface, depends on in
 
 Pico has a dedicated RESET pin on header pin 30 (RUN).
 Pi 3, 4 have unsoldered reset pin on a J2 connector. Solder a wired button to central and GLOBAL_EN pins.
+
+## TOY
+
+| HEADER PIN | GPIO | DESCRIPTION | DESTINATION |
+|   --       | :--: |     --      |     --      |
+| 26         |  20  |   I²C0 SDA  | I²C SDA bus |
+| 27         |  21  |   I²C0 SCL  | I²C SCL bus |
+| 28         |      |   Ground    |    I²C bus  |
+| 36         |      |    3V3OUT   | 3V3 36 Paper PIN  |
 
 [Home](README.md#further-reading)

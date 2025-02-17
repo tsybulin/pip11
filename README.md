@@ -19,6 +19,7 @@ Yes, you can use SIMH, which requires a full operating system to work. PIP-11 al
 - KT11 Memory Management Unit with 16, 18 and 22bit address space
 - 60 Cycle System Clock
 - KW11-P User Programmable Clock
+- DS3231 real time clock (TOY)
 - RK11 Drive controller with 8 RK02 5mb units
 - RL11 Drive controller with 4 RL02 10mb units
 - T11 DECtape controller with single 289K unit
